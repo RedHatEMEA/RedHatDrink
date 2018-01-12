@@ -19,3 +19,5 @@ Invented by Goerkem Harp from G-Cocktails http://www.g-cocktails.de
 * Remove the ice from the glas, pour the drink into it and add some ice cubes
 
 ENJOY!
+
+For improvements: I accept pull requests :-)))
