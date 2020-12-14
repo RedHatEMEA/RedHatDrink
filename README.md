@@ -3,7 +3,7 @@ The inofficial Red Hat Drink
 
 Invented by Goerkem Harp from G-Cocktails http://www.g-cocktails.de
 
-* Fill an huge glas (Hurricane) with ice to let it cool down
+* Fill a huge glas (Hurricane) with ice to let it cool down
 * Put one ice shovel into the larger part of your cocktail shaker and put the smaller part into the other
 * Pour all listed ingredients into it:
 
